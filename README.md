@@ -1,2 +1,6 @@
 # FreeCodeCamp's Tribute page
-My submission to [FreeCodeCamp's Tribute page project](https://www.freecodecamp.org/challenges/build-a-tribute-page). Built on Bootstrap 4. See it live on [Codepen](https://codepen.io/andsnleo/pen/aBxKrY).
+My submission to [FreeCodeCamp's Tribute page project](https://www.freecodecamp.org/challenges/build-a-tribute-page):
+
+> Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/FreeCodeCamp/full/NNvBQW/.
+
+Built on HTML, CSS and Bootstrap 4. See it live on [Codepen](https://codepen.io/andsnleo/pen/aBxKrY).
